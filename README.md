@@ -8,4 +8,6 @@ Field updates every 0,3 seconds, so the speed of falling figures
 is constant!
 Press 'q' if you want to exit.
 
-Have fun! =)
+**Have fun! =)**
+
+_P.S. Comments on Russian language in the code are there for better understanding for what every part of code is responsible for._
